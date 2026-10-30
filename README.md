@@ -33,7 +33,7 @@ To be honest, no idea. The mod is pretty aggressive with removing known stations
 Personally, I have developed Xepocalypse with the following mods enabled:
 
   * VRO
-  * deadairgate, deadairgod, deadairjobs, deadairware
+  * Deadairs mods will work, including the forks
   * Faction Enhancer - War Module
 
 Mods that do the following may not work as intended:
@@ -41,7 +41,11 @@ Mods that do the following may not work as intended:
   * Mods that add new sectors / factions. Xepocalypse will leave those alone as it does not know about them.
 
 ## Changelog
+## v0.12
+ * Changed the new Sectors into Xenon Sectors, something changed which made Republic and Argon along with a few others to get The Void and Argon prime back.
+ * Everything is basiclly the same.
 
+   
 ### v0.11
 
   * Add Commonwealth "Scrap Recylcer" module blueprint (with Terran building materials) to PIO. This allows bootstrapping of Hull Parts and Claytronics with nothing but scrap.
