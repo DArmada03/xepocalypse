@@ -147,7 +147,12 @@ const SPLIT_DLC_ZONES = [
 	"zone001_cluster_424_sector002_macro",
 	"zone001_cluster_425_sector001_macro",
 ];
-
+const BaseGame = [
+	"zone001_cluster_704_sector001_macro",
+	"zone001_cluster_709_sector001_macro",
+];
+	
+	
 const STATION_TEMPLATE = `<station id="$ID$" race="xenon" owner="xenon" type="defence">
 	<quotas>
 		<quota galaxy="1" zone="1" />

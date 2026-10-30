@@ -9,10 +9,13 @@
 	<remove sel="/god/stations/station[@id='equipmentdock_argon_01']"/>
 	<remove sel="/god/stations/station[@id='equipmentdock_argon_02']"/>
 	<remove sel="/god/stations/station[@id='tradestation_argon_01']"/>
+	<remove sel="/god/stations/station[@id='tradestation_argon_02']"/>
 	<remove sel="/god/stations/station[@id='arg_defence_cluster_06_sector001']"/>
 	<remove sel="/god/stations/station[@id='arg_defence_cluster_06_sector002']"/>
 	<remove sel="/god/stations/station[@id='arg_defence_cluster_07_sector001']"/>
 	<remove sel="/god/stations/station[@id='arg_defence_cluster_08_sector001']"/>
+	<remove sel="/god/stations/station[@id='arg_defence_cluster_08_sector001_01']"/>
+	<remove sel="/god/stations/station[@id='arg_defence_cluster_08_sector001_02']"/>
 	<remove sel="/god/stations/station[@id='arg_defence_cluster_29_sector002']"/>
 	<remove sel="/god/stations/station[@id='arg_defence_cluster_30_sector001']"/>
 	<remove sel="/god/stations/station[@id='arg_defence_cluster_46_sector001']"/>
@@ -21,8 +24,12 @@
 	<remove sel="/god/stations/station[@id='shipyard_antigone']"/>
 	<remove sel="/god/stations/station[@id='wharf_antigone']"/>
 	<remove sel="/god/stations/station[@id='equipmentdock_antigone']"/>
-	<remove sel="/god/stations/station[@id='tradestation_antigone']"/>
-	<remove sel="/god/stations/station[@id='ant_defence_cluster_13_sector001']"/>
+	<remove sel="/god/stations/station[@id='tradestation_antigone_01']"/>
+	<remove sel="/god/stations/station[@id='tradestation_antigone_02']"/>
+	<remove sel="/god/stations/station[@id='ant_defence_cluster_13_sector001_01']"/>
+	<remove sel="/god/stations/station[@id='ant_defence_cluster_13_sector001_02']"/>
+	<remove sel="/god/stations/station[@id='ant_defence_cluster_28_sector001_01']"/>
+	<remove sel="/god/stations/station[@id='ant_defence_cluster_28_sector001_02']"/>
 	<remove sel="/god/stations/station[@id='ant_defence_cluster_27_sector001']"/>
 	<remove sel="/god/stations/station[@id='ant_defence_cluster_40_sector001']"/>
 	<remove sel="/god/stations/station[@id='ant_defence_cluster_41_sector001']"/>
@@ -32,7 +39,8 @@
 	<remove sel="/god/stations/station[@id='freeport_hatikvah_01']"/>
 	<remove sel="/god/stations/station[@id='freeport_hatikvah_02']"/>
 	<remove sel="/god/stations/station[@id='freeport_hatikvah_03']"/>
-	<remove sel="/god/stations/station[@id='hat_defence_cluster_29_sector001']"/>
+	<remove sel="/god/stations/station[@id='hat_defence_cluster_29_sector001_01']"/>
+	<remove sel="/god/stations/station[@id='hat_defence_cluster_29_sector001_02']"/>
 
 	<!-- Godrealm of the Paranid -->
 	<remove sel="/god/stations/station[@id='shipyard_paranid']"/>
@@ -40,8 +48,10 @@
 	<remove sel="/god/stations/station[@id='equipmentdock_paranid']"/>
 	<remove sel="/god/stations/station[@id='tradestation_paranid']"/>
 	<remove sel="/god/stations/station[@id='par_defence_cluster_10_sector001']"/>
-	<remove sel="/god/stations/station[@id='par_defence_cluster_18_sector001']"/>
-	<remove sel="/god/stations/station[@id='par_defence_cluster_22_sector001']"/>
+	<remove sel="/god/stations/station[@id='par_defence_cluster_18_sector001_01']"/>
+	<remove sel="/god/stations/station[@id='par_defence_cluster_18_sector001_02']"/>
+	<remove sel="/god/stations/station[@id='par_defence_cluster_22_sector001_01']"/>
+	<remove sel="/god/stations/station[@id='par_defence_cluster_22_sector001_02']"/>
 	<remove sel="/god/stations/station[@id='par_defence_cluster_23_sector001']"/>
 	<remove sel="/god/stations/station[@id='par_defence_cluster_37_sector001']"/>
 	<remove sel="/god/stations/station[@id='par_defence_cluster_38_sector001']"/>
@@ -52,9 +62,12 @@
 	<remove sel="/god/stations/station[@id='wharf_holyorder']"/>
 	<remove sel="/god/stations/station[@id='equipmentdock_holyorder']"/>
 	<remove sel="/god/stations/station[@id='tradestation_holyorder']"/>
-	<remove sel="/god/stations/station[@id='hol_defence_cluster_11_sector001']"/>
-	<remove sel="/god/stations/station[@id='hol_defence_cluster_12_sector001']"/>
-	<remove sel="/god/stations/station[@id='hol_defence_cluster_24_sector001']"/>
+	<remove sel="/god/stations/station[@id='hol_defence_cluster_11_sector001_01']"/>
+	<remove sel="/god/stations/station[@id='hol_defence_cluster_11_sector001_02']"/>
+	<remove sel="/god/stations/station[@id='hol_defence_cluster_12_sector001_01']"/>
+	<remove sel="/god/stations/station[@id='hol_defence_cluster_12_sector001_02']"/>
+	<remove sel="/god/stations/station[@id='hol_defence_cluster_24_sector001_01']"/>
+	<remove sel="/god/stations/station[@id='hol_defence_cluster_24_sector001_02']"/>
 	<remove sel="/god/stations/station[@id='hol_defence_cluster_35_sector001']"/>
 	<remove sel="/god/stations/station[@id='hol_defence_cluster_36_sector001']"/>
 
@@ -72,7 +85,8 @@
 	<remove sel="/god/stations/station[@id='tel_defence_cluster_01_sector001']"/>
 	<remove sel="/god/stations/station[@id='tel_defence_cluster_01_sector002']"/>
 	<remove sel="/god/stations/station[@id='tel_defence_cluster_01_sector003']"/>
-	<remove sel="/god/stations/station[@id='tel_defence_cluster_02_sector001']"/>
+	<remove sel="/god/stations/station[@id='tel_defence_cluster_02_sector001_01']"/>
+	<remove sel="/god/stations/station[@id='tel_defence_cluster_02_sector001_02']"/>
 	<remove sel="/god/stations/station[@id='tel_defence_cluster_03_sector001']"/>
 	<remove sel="/god/stations/station[@id='tel_defence_cluster_05_sector001']"/>
 	<remove sel="/god/stations/station[@id='tel_defence_cluster_09_sector001']"/>
@@ -85,6 +99,8 @@
 	<remove sel="/god/stations/station[@id='tel_defence_cluster_39_sector001']"/>
 	<remove sel="/god/stations/station[@id='tel_defence_cluster_42_sector001']"/>
 	<remove sel="/god/stations/station[@id='tel_defence_cluster_43_sector001']"/>
+	<remove sel="/god/stations/station[@id='tel_defence_cluster_713_sector001_01']"/>
+	<remove sel="/god/stations/station[@id='tel_defence_cluster_713_sector001_02']"/>
 	<remove sel="/god/stations/station[@id='tel_processing']"/>
 
 	<!-- Ministry of Finance -->
@@ -2006,6 +2022,51 @@
 					<level exact="1.0" />
 				</loadout>
 			</station>
-		</station>		
+		</station>
+		<station id="xenpo_defence_cluster_704_sector001" race="xenon" owner="xenon" type="defence">
+			<quotas>
+				<quota galaxy="1" zone="1" />
+			</quotas>
+			<location class="zone" macro="zone001_cluster_704_sector001_macro" matchextension="false" />
+			<station>
+				<select faction="xenon" tags="[defence]" />
+				<loadout>
+					<level exact="1.0" />
+				</loadout>
+			</station>
+		</station>
+		<station id="xenpo_defence_cluster_709_sector001" race="xenon" owner="xenon" type="defence">
+			<quotas>
+				<quota galaxy="1" zone="1" />
+			</quotas>
+			<location class="zone" macro="zone001_cluster_709_sector001_macro" matchextension="false" />
+			<station>
+				<select faction="xenon" tags="[defence]" />
+				<loadout>
+					<level exact="1.0" />
+				</loadout>
+			</station>
+		</station>
 	</add>
+	
+	<!-- ============================================================================================== -->
+	<!--                                          Time Lines                                            -->
+	<!-- ============================================================================================== -->
+	
+	<remove sel="/god/stations/station[@id='kao_tradestation_cluster_701']"/>
+	<remove sel="/god/stations/station[@id='kao_energy_array']"/>
+	<remove sel="/god/stations/station[@id='kao_wharf_cluster_702']"/>
+	<remove sel="/god/stations/station[@id='kao_hydro_processing_plant']"/>
+	<remove sel="/god/stations/station[@id='kao_compound_refinery']"/>
+	<remove sel="/god/stations/station[@id='kao_tradestation_cluster_703']"/>
+	<remove sel="/god/stations/station[@id='kao_shipyard_cluster_703']"/>
+	<remove sel="/god/stations/station[@id='kao_advanced_tech_complex']"/>
+	<remove sel="/god/stations/station[@id='kao_produce_facility']"/>
+	<remove sel="/god/stations/station[@id='arg_tradestation_cluster_704']"/>
+	<remove sel="/god/stations/station[@id='arg_defence_cluster_704_sector001_01']"/>
+	<remove sel="/god/stations/station[@id='par_defence_cluster_709_sector001_01']"/>
+	<remove sel="/god/stations/station[@id='par_defence_cluster_709_sector001_02']"/>
+	<remove sel="/god/stations/station[@id='par_palace_cluster_709_sector001']"/>
+
+	
 </diff>
